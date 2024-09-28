@@ -1,17 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: Peng Fu (傅鹏)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
+
+# Profile image
+image: media/IMG_0665.JPG
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peng
+last_name: Fu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,51 +23,59 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: School of Plant, Environmental and Soil Sciences
+    url: https://www.lsu.edu/agriculture/spess/index.php
+  - name: Louisiana State University AgCenter
+    url: https://www.lsuagcenter.com/
+  - name: Louisiana State University
+    url: https://www.lsu.edu/
+  - name: Baton Rouge, LA 70803
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: custom/email-153
+    url: 'mailto:pfu@agcenter.lsu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=4me5CtoAAAAJ&hl=en
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Peng_Fu
+    label: ResearchGate
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Agriculture
+  - Crop Modeling
+  - Remote Sensing
+  - Soil Carbon
+  - Plant Physiology
+  - Environmental Science
+  - Artifical Intelligence
+  - Climate Change and Agriculture
+  - Food and Energy Security
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Postdoc
+    institution: University of Illinois at Urbana-Champaign
+  - area: PhD Spatial and Earth Sciences
+    institution: Indiana State University
+    date_start: 2014-08-19
+    date_end: 2018-05-12
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA Geography
+    institution: Indiana State University
+    date_start: 2012-08-08
+    date_end: 2014-08-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,8 +83,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc GIScience and Agriculture
+    institution: Huazhong Agriculture University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -181,6 +192,12 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a tenure-track assistant professor in digital agriculture with [School of Plant, Environmental and Soil Sciences](https://www.lsu.edu/agriculture/spess/index.php) at the [Louisiana State University AgCenter](https://www.lsuagcenter.com/) and [Louisiana State University](https://www.lsu.edu), where I lead the Agriculture Intelligence and Innovation (AI²) Lab. My research integrates remote sensing, artificial intelligence, computational modeling, and statistical analysis to address critical issues in food security, sustainable agriculture, climate change, and beyond.
+
+With a focus on enhancing crop production and resource efficiency, I am interested in developing data-driven solutions to optimize agricultural management and reduce environmental impacts. Guided by the principle that “we can only manage what we can measure well,” my research aims to provide precise, actionable insights that contribute to a sustainable future. I am passionate about combining technology with practical solutions to build resilient agricultural systems for the next generation.
+
+Prior to joining LSU, I also served as a United Nations Food and Agriculture Organization (UN FAO) Artificial Intelligence Specialist, where I contributed to global efforts to integrate AI and digital tools into sustainable agricultural practices. My work at FAO emphasized the use of digital technologies to enhance food and energy security, aiming to build resilient agricultural systems that balance productivity and environmental sustainability.
+
+I am currently looking for MS and PhD students and visiting scholars who are interested in data-driven agriculture to work in the AI² lab. Please refer to recuriting flyers for more details.
