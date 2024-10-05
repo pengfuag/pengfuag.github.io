@@ -42,7 +42,7 @@ profiles:
     url: 'mailto:pfu@agcenter.lsu.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: 
+    url: https://www.linkedin.com/in/dr-peng-fu
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=4me5CtoAAAAJ&hl=en
   - icon: custom/researchgate
