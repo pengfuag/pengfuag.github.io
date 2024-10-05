@@ -41,7 +41,8 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} by Peng Fu. This work is licensed under {license}'
+    #notice: '© {year} by Peng Fu. This work is licensed under {license}'
+    notice: '© {year} by Peng Fu.'
     license:
       enable: true
       allow_derivatives: false
