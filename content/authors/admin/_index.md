@@ -180,7 +180,7 @@ education:
 
 ## Biography
 
-I am a tenure-track assistant professor in digital agriculture with [School of Plant, Environmental and Soil Sciences](https://www.lsu.edu/agriculture/spess/index.php) at the [Louisiana State University AgCenter](https://www.lsuagcenter.com/) and [Louisiana State University](https://www.lsu.edu), where I lead the Agriculture Intelligence and Innovation (AI²) Lab. My research integrates remote sensing, artificial intelligence, computational modeling, and statistical analysis to address critical issues in food security, sustainable agriculture, climate change, and beyond.
+I am a tenure-track assistant professor in digital agriculture with [School of Plant, Environmental and Soil Sciences](https://www.lsu.edu/agriculture/spess/index.php) at the [Louisiana State University AgCenter](https://www.lsuagcenter.com/) and [Louisiana State University](https://www.lsu.edu), where I lead the Agroecosystem Sensing and Modeling Lab (ASML). My research integrates remote sensing, artificial intelligence, computational modeling, and statistical analysis to address critical issues in food/energy security, sustainable agriculture, climate change, and beyond.
 
 With a focus on enhancing crop production and resource efficiency, I am interested in developing data-driven solutions to optimize agricultural management and reduce environmental impacts. Guided by the principle that “we can only manage what we can measure well,” my research aims to provide precise, actionable insights that contribute to a sustainable future. I am passionate about combining technology with practical solutions to build resilient agricultural systems for the next generation.
 
