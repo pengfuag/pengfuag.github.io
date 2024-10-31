@@ -13,11 +13,14 @@
     </image>
     
     <item>
-      <title>hiring</title>
+      <title>Position opening</title>
       <link>http://localhost:1313/hiring/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hiring/</guid>
-      <description>&lt;p&gt;We currently have the following position opening&lt;/p&gt;
+      <description>&lt;h2 id=&#34;doctoralmasters-students&#34;&gt;Doctoral/Master&amp;rsquo;s Students&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;./flyer_graduate_LSU.pdf&#34; target=&#34;_blank&#34;&gt;flyer&lt;/a&gt; for details on open positions.&lt;/p&gt;
+&lt;h2 id=&#34;visiting-scholarsstudents&#34;&gt;Visiting Scholars/Students&lt;/h2&gt;
+&lt;p&gt;If you are interested in joining the ASML as a visiting scholar or student, please contact Dr. Peng Fu for further details.&lt;/p&gt;
 </description>
     </item>
     
@@ -292,7 +295,7 @@
 
 
 
-&lt;div id=&#34;chart-147683925&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-874562139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -310,7 +313,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-147683925&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-874562139&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
