@@ -12,5 +12,5 @@ Please refer to the <a href="./flyer_graduate_LSU.pdf" target="_blank">flyer</a>
 
 ## Visiting Scholars/Students
 
-If you are interested in joining the ASML as a visiting scholar or student, please contact Dr. Peng Fu (pfu@agcenter.lsu.edu) for further details.
+If you are interested in joining the ESML as a visiting scholar or student, please contact Dr. Peng Fu (pfu@agcenter.lsu.edu) for further details.
 
